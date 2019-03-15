@@ -1,0 +1,12 @@
+1-Transmissor, Receptor, Meio, Mensagem, Protocolo
+
+2- 
+Simplex = Nesse tipo de transmissão o transmissor e receptor nao alternam.
+
+half-duplex = Nesse tipo d3e tranmissão o receptor eo transmissor alternam mas não são ao mesmo tempo.
+
+full-duplex = Nesse tipo de transmissor o receptor é transmissor ao mesmo tempo.
+
+3- Largura de banda 
+
+
