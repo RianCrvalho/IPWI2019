@@ -1,4 +1,5 @@
-1-Transmissor, Receptor, Meio, Mensagem, Protocolo
+1-
+Transmissor, Receptor, Meio, Mensagem, Protocolo
 
 2- 
 Simplex = Nesse tipo de transmissão o transmissor e receptor nao alternam.
@@ -7,6 +8,37 @@ half-duplex = Nesse tipo d3e tranmissão o receptor eo transmissor alternam mas n
 
 full-duplex = Nesse tipo de transmissor o receptor é transmissor ao mesmo tempo.
 
-3- Largura de banda 
+3- 
+Largura de banda = Seria a capacidade máxima de transferencia de dados.
+
+Throughput = Seria medida real de trasferencia de dados por hora.
+
+Geralmente o throughput é só a metade da banda larga, pois largura de banda é a teoria mas na pratica é
+o throughput.
+
+4-
+internet = É a rede internacional de computadores, o que liga todos os computadores do mundo.
+
+Intranet = É uma rede que está restrita a um lugar físico, pode ser a rede de computadores de uma empresa
+por exemplo.
+
+Extranet = É uma extenção da Intranet, já não está limitada a um lugar físico mas pode ligar computadores 
+dessa empresa de vários lugares do mundo.
+
+5-
+Servidor = É o computador que realiza a parte principal do serviço, seria a coneção.
+
+Cliente = É o computador que solicita o serviço, geralmente é o ser humano atravez de uma interface
+ou outro sistema computacional, 
+
+Sem o servidor seria impossivel uma ligação entre os computadores.
+
+6-
+Protocolo = Seria as regras da comunicação, tem as licenças, seria um padrão para aquela comunicação
+
+Sem protocolo não teria necessidade das licenças, as comunicações seriam bagunçadas ou nem teriam.
+
+
+
 
 
